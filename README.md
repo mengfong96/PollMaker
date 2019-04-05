@@ -11,4 +11,4 @@ admin account:
 * username: admin
 * password: 123456
 
-Project's doc: https://drive.google.com/open?id=1CR2JoLmNSYEFdoNV4EcCgPVReQ-pC3ke
+Project's doc: https://drive.google.com/open?id=1WfHxWIntqgTXEVESAFpp3Kla4iyGD_Zy
