@@ -17,7 +17,7 @@ public class DatabaseManager {
 	//Default setup everytime run program
 	public DatabaseManager(){
 	
-		admin = new TempAdminRecord("A101", "Weeb", "123456");
+		admin = new TempAdminRecord("A101", "admin", "123456");
 		TempMemberRecord member = new TempMemberRecord("A101","Victor","lehv001@gmail.com","Victor","Lau","123");
 		TempMemberRecord member1 = new TempMemberRecord("A102","MF","lehv002@gmail.com","MF","Lee","123");
 		TempMemberRecord member2 = new TempMemberRecord("A103","MFC","lehv003@gmail.com","MF","Lee","123");
